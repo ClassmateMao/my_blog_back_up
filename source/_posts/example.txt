@@ -1,0 +1,9 @@
+---
+title: hello world
+date: 2016-03-30 21:18:02   
+tags:
+categories：       
+password: 12345
+abstract: 欢迎来到我的博客，请输入密码查看博文
+message:  欢迎来到我的博客，请输入密码查看博文.     
+---
